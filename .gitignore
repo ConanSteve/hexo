@@ -1,0 +1,6 @@
+public/
+.deploy_git/
+db.json
+# 防止github token被上传而导致的二失效
+_config.yml
+source/_posts/Notebooks/ComputerScience/_Token/
